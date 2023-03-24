@@ -8,6 +8,8 @@ Recently, I was the Cloud Engineer/Software Engineer of Nbit Technology Sdn Bhd 
 
 Find me on LinkedIn! <a rel="me" href="https://www.linkedin.com/in/ashrafrafiza96/">Ashraf Rafiza</a>.
 
+🔭 I’m currently working on a site that combines all recipe posts from Khairul Aming and Che'nom. Check out my progress on [`resepidotcom`](https://resepidotcom.vercel.app/)
+
 ---
 
 
